@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Reevanai
 - 👀 I’m interested in ai
 - 🌱 I’m currently learning ai engineering 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+
